@@ -10,11 +10,7 @@
 .wrapper div {
   flex: 1;
   padding: 20px;
-  /* Uncomment temporarily to test layout boxes */
-  /* border: double cornflowerblue; */
-}
-
-/* Page Elements Styling */
+  
 body {
   font-family: 'Josefin Sans', sans-serif;
   background-color: #fcf2f2;
