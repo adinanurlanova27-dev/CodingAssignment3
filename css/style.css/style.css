@@ -14,8 +14,9 @@
   
 body {
   font-family: 'Josefin Sans', sans-serif;
+  background-image: url("background-images.jpeg");
   background-color: #912de8;
-  color: #fffafa;
+  color: #b359a1;
   margin: 40px;
   line-height: 1.6;
 }
